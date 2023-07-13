@@ -1,10 +1,12 @@
-[![MasterHead](https://blog.imarticus.org/wp-content/uploads/2019/05/daonline.gif)]
+<img src="https://blog.imarticus.org/wp-content/uploads/2019/05/daonline.gif" style="height: auto; width: auto;" alt="Image">
+
+
 <h1 align="center">Hi 👋, I'm Nishant Dalvi</h1>
 <h3 align="center">A aspiring Data analyst and Data scientist from India</h3>
 <br>
 <br>
 
-- 🔭 I’m currently working as - **Intern at AI Variant**
+- 🔭 I’m currently working as - **Intern at <a href="https://aivariant.com/"> AI Variant</a>**
 
 - 🌱 I’m currently learning - **Deep Learning, NLP**
 
