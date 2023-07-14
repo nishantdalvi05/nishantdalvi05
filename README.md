@@ -33,6 +33,11 @@
 <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> 
 <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
 
+<h3 align="left">Projects:</h3>
+<p align="left"><a href="https://github.com/nishantdalvi05/Classification-of-Myocardial-Infarction-" target="_blank">Hourly Energy Consumption Forecast</a></p> 
+<p align="left">Classification of Myocardial Infraction</p>
+<p align="left">Resume Classification</p>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nishantdalvi05&label=Profile%20views&color=0e75b6&style=flat" alt="nishantdalvi05" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nishantdalvi05" alt="nishantdalvi05" /></a> </p>
