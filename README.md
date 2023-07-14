@@ -37,7 +37,6 @@
 <p align="left"><a href="https://github.com/nishantdalvi05/Hourly-Energy-Consumption-Forecast-" target="_blank">Hourly Energy Consumption Forecast</a></p> 
 <p align="left"><a href="https://github.com/nishantdalvi05/Classification-of-Myocardial-Infarction-" target="_blank">Classification of Myocardial Infraction</a></p>
 <p align="left"><a href="https://github.com/nishantdalvi05/Resume-Classification" target="_blank">Resume Classification</a></p>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nishantdalvi05&label=Profile%20views&color=0e75b6&style=flat" alt="nishantdalvi05" /> </p>
-
+<br>
+<br>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nishantdalvi05" alt="nishantdalvi05" /></a> </p>
